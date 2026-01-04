@@ -1,0 +1,82 @@
+[
+  {
+    "id": "math",
+    "name": "Mathematics",
+    "mastery": 65,
+    "status": "Improving",
+    "topics": [
+      {
+        "id": "algebra",
+        "name": "Algebra",
+        "mastery": 70,
+        "lastScore": 75
+      },
+      {
+        "id": "geometry",
+        "name": "Geometry",
+        "mastery": 60,
+        "lastScore": 65
+      },
+      {
+        "id": "calculus",
+        "name": "Calculus",
+        "mastery": 65,
+        "lastScore": 70
+      }
+    ]
+  },
+  {
+    "id": "physics",
+    "name": "Physics",
+    "mastery": 88,
+    "status": "Mastered",
+    "topics": [
+      {
+        "id": "mechanics",
+        "name": "Mechanics",
+        "mastery": 90,
+        "lastScore": 92
+      },
+      {
+        "id": "thermodynamics",
+        "name": "Thermodynamics",
+        "mastery": 85,
+        "lastScore": 88
+      },
+      {
+        "id": "optics",
+        "name": "Optics",
+        "mastery": 89,
+        "lastScore": 90
+      }
+    ]
+  },
+  {
+    "id": "cs",
+    "name": "Computer Science",
+    "mastery": 42,
+    "status": "Needs Work",
+    "topics": [
+      {
+        "id": "python_basics",
+        "name": "Python Basics",
+        "mastery": 50,
+        "lastScore": 55
+      },
+      {
+        "id": "while_loops",
+        "name": "While Loops",
+        "mastery": 42,
+        "lastScore": 42,
+        "priority": true
+      },
+      {
+        "id": "data_structures",
+        "name": "Data Structures",
+        "mastery": 35,
+        "lastScore": 40
+      }
+    ]
+  }
+]
+

@@ -1,0 +1,10 @@
+[
+  { "date": "2024-01-09", "quizzes": 2, "time": 45, "day": "M" },
+  { "date": "2024-01-10", "quizzes": 3, "time": 60, "day": "T" },
+  { "date": "2024-01-11", "quizzes": 1, "time": 30, "day": "W" },
+  { "date": "2024-01-12", "quizzes": 4, "time": 75, "day": "T" },
+  { "date": "2024-01-13", "quizzes": 2, "time": 50, "day": "F" },
+  { "date": "2024-01-14", "quizzes": 3, "time": 65, "day": "S" },
+  { "date": "2024-01-15", "quizzes": 5, "time": 90, "day": "S" }
+]
+

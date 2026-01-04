@@ -1,0 +1,78 @@
+[
+  {
+    "id": "easy_1",
+    "subject": "cs",
+    "topic": "while_loops",
+    "difficulty": "easy",
+    "question": "What is the purpose of a while loop in Python?",
+    "options": [
+      "To execute a block of code repeatedly while a condition is true",
+      "To execute a block of code only once",
+      "To define a function",
+      "To import a module"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A while loop executes a block of code repeatedly as long as the condition remains true."
+  },
+  {
+    "id": "easy_2",
+    "subject": "cs",
+    "topic": "while_loops",
+    "difficulty": "easy",
+    "question": "Which keyword is used to start a while loop in Python?",
+    "options": [
+      "while",
+      "for",
+      "loop",
+      "repeat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 'while' keyword is used to start a while loop in Python."
+  },
+  {
+    "id": "easy_3",
+    "subject": "cs",
+    "topic": "while_loops",
+    "difficulty": "easy",
+    "question": "What happens if the condition in a while loop is always True?",
+    "options": [
+      "The loop runs forever (infinite loop)",
+      "The loop runs once",
+      "The loop doesn't run",
+      "An error occurs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "If the condition is always True, the loop becomes an infinite loop and runs forever."
+  },
+  {
+    "id": "easy_4",
+    "subject": "math",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "What is the value of x in the equation: 2x + 5 = 15?",
+    "options": [
+      "x = 5",
+      "x = 10",
+      "x = 7",
+      "x = 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2x + 5 = 15 → 2x = 10 → x = 5"
+  },
+  {
+    "id": "easy_5",
+    "subject": "math",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "question": "Simplify: 3a + 2a",
+    "options": [
+      "5a",
+      "6a",
+      "a",
+      "5a²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "When adding like terms, 3a + 2a = 5a"
+  }
+]
+

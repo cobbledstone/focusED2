@@ -1,0 +1,78 @@
+[
+  {
+    "id": "hard_1",
+    "subject": "cs",
+    "topic": "while_loops",
+    "difficulty": "hard",
+    "question": "What will be the output: i = 1; while i <= 5: if i % 2 == 0: print(i); i += 1",
+    "options": [
+      "2, 4",
+      "1, 3, 5",
+      "2, 4, 6",
+      "1, 2, 3, 4, 5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The loop prints only even numbers (2, 4) between 1 and 5."
+  },
+  {
+    "id": "hard_2",
+    "subject": "cs",
+    "topic": "while_loops",
+    "difficulty": "hard",
+    "question": "Write a while loop that finds the sum of numbers from 1 to n. What is the condition?",
+    "options": [
+      "while i <= n:",
+      "while i < n:",
+      "while i >= n:",
+      "while i == n:"
+    ],
+    "correctAnswer": 0,
+    "explanation": "To include n in the sum, we use 'i <= n' so the loop continues until i equals n."
+  },
+  {
+    "id": "hard_3",
+    "subject": "cs",
+    "topic": "while_loops",
+    "difficulty": "hard",
+    "question": "What is the difference between 'while True:' with break and a conditional while loop?",
+    "options": [
+      "Both can achieve the same result, but 'while True' with break offers more control over exit points",
+      "They are completely different and cannot be used interchangeably",
+      "'while True' always creates an infinite loop",
+      "Conditional while loops are faster"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Both patterns can achieve similar results, but 'while True' with break allows exiting from anywhere in the loop body."
+  },
+  {
+    "id": "hard_4",
+    "subject": "math",
+    "topic": "algebra",
+    "difficulty": "hard",
+    "question": "Solve the system: 2x + 3y = 12 and x - y = 1",
+    "options": [
+      "x = 3, y = 2",
+      "x = 2, y = 3",
+      "x = 4, y = 1",
+      "x = 1, y = 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "From x - y = 1, we get x = y + 1. Substituting: 2(y+1) + 3y = 12 → 5y = 10 → y = 2, x = 3"
+  },
+  {
+    "id": "hard_5",
+    "subject": "math",
+    "topic": "calculus",
+    "difficulty": "hard",
+    "question": "What is the derivative of f(x) = x³ + 2x² - 5x?",
+    "options": [
+      "3x² + 4x - 5",
+      "x² + 2x - 5",
+      "3x² + 2x - 5",
+      "x³ + 4x - 5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using power rule: d/dx(x³) = 3x², d/dx(2x²) = 4x, d/dx(-5x) = -5. Sum: 3x² + 4x - 5"
+  }
+]
+

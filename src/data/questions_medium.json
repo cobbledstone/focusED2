@@ -1,0 +1,78 @@
+[
+  {
+    "id": "medium_1",
+    "subject": "cs",
+    "topic": "while_loops",
+    "difficulty": "medium",
+    "question": "What will be the output of: count = 0; while count < 3: print(count); count += 1",
+    "options": [
+      "0, 1, 2",
+      "1, 2, 3",
+      "0, 1, 2, 3",
+      "Infinite loop"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The loop prints count (0, 1, 2) and stops when count becomes 3."
+  },
+  {
+    "id": "medium_2",
+    "subject": "cs",
+    "topic": "while_loops",
+    "difficulty": "medium",
+    "question": "How do you break out of a while loop prematurely?",
+    "options": [
+      "Use the 'break' statement",
+      "Use the 'exit' statement",
+      "Use the 'stop' statement",
+      "Use the 'end' statement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 'break' statement is used to exit a loop prematurely."
+  },
+  {
+    "id": "medium_3",
+    "subject": "cs",
+    "topic": "while_loops",
+    "difficulty": "medium",
+    "question": "What does the 'continue' statement do in a while loop?",
+    "options": [
+      "Skips the rest of the current iteration and continues with the next",
+      "Exits the loop completely",
+      "Restarts the loop from the beginning",
+      "Pauses the loop"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 'continue' statement skips the remaining code in the current iteration and moves to the next iteration."
+  },
+  {
+    "id": "medium_4",
+    "subject": "math",
+    "topic": "algebra",
+    "difficulty": "medium",
+    "question": "Solve for x: 3x - 7 = 2x + 5",
+    "options": [
+      "x = 12",
+      "x = 2",
+      "x = -12",
+      "x = -2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "3x - 7 = 2x + 5 → 3x - 2x = 5 + 7 → x = 12"
+  },
+  {
+    "id": "medium_5",
+    "subject": "math",
+    "topic": "geometry",
+    "difficulty": "medium",
+    "question": "What is the area of a circle with radius 5?",
+    "options": [
+      "25π",
+      "10π",
+      "5π",
+      "50π"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Area = πr² = π(5)² = 25π"
+  }
+]
+
